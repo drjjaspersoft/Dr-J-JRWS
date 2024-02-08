@@ -1,0 +1,1 @@
+{"version":1,"permissionMask":1,"creationDate":"2023-11-17T10:25:09","updateDate":"2012-09-06T14:22:12","label":"Diagnostic Data Source","description":"","uri":"/public/diagnostic/JSDiagnosticDataSource","serviceClass":"com.jaspersoft.jasperserver.api.logging.diagnostic.datasource.DiagnosticCustomDataSourceService","dataSourceName":"diagnosticCustomDataSource"}
